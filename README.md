@@ -6,3 +6,6 @@ Here comes a new chapter.
 
 # adding another chapter
 Here comes another chapter.
+
+# one more chapter in master
+Here is one more chapter in master.
